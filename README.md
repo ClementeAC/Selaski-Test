@@ -5,6 +5,15 @@ Puede correrse con
 ```
 tsc randomKeyboard.ts 
 ```
-tsc randomKeyboard.ts 
 
-seguido de node randomKeyboard.js
+Seguido de
+
+```
+node randomKeyboard.js
+```
+
+Las pruebas unitarias pueden correrse con
+
+```
+npm test
+```
